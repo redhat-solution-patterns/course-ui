@@ -142,4 +142,5 @@
   /* tabs */
   --color-brand-black: var(--color-black);
   --color-brand-light-gray: #f3f3f3;
+  --color-brand-dark-gray: #6c6c6c;
 }
