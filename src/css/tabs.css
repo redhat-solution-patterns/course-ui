@@ -9,7 +9,7 @@
 
 .tabs li {
   align-items: center;
-  border: 1px solid var(--color-brand-light-gray);
+  border: 1px solid var(--color-brand-black);
   border-bottom: 0;
   cursor: pointer;
   display: flex;
@@ -31,7 +31,7 @@
 
 .tabset.is-loading .tabs li:not(:first-child),
 .tabset:not(.is-loading) .tabs li:not(.is-active) {
-  background-color: var(--color-black);
+  background-color: var(--color-brand-light-gray);
   color: var(--color-white);
 }
 
