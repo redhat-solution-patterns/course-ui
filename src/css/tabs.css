@@ -9,7 +9,7 @@
 
 .tabs li {
   align-items: center;
-  border: 1px solid var(--color-brand-black);
+  border: 1px solid var(--color-brand-light-gray);
   border-bottom: 0;
   cursor: pointer;
   display: flex;

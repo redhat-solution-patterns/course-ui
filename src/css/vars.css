@@ -141,4 +141,5 @@
   --z-index-navbar: 4;
   /* tabs */
   --color-brand-black: var(--color-black);
+  --color-brand-light-gray: #f3f3f3;
 }
